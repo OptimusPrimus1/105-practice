@@ -1,0 +1,52 @@
+/****** BASE STYLES *****/
+
+
+body {  font-family: 'Merriweather', serif;
+        background-color:  #8c8c8c;
+
+}
+
+.full-width {
+    width: 100%;
+}
+
+h1 { text-align: center;
+
+}
+
+h4 {
+     font-family: 'Kumar One Outline', cursive;
+     text-transform: uppercase;
+     text-align: center;
+     font-size: 20px;
+}
+
+.top-section {
+     background-color: #ff6666;
+     margin:0 auto;
+     padding: 20px 30px 30px ;
+
+}
+
+p {
+    padding: 10px;
+}
+
+.middle-section {
+  background-color: #668cff;
+  margin: 0 auto;
+  padding: 20px;
+
+}
+
+/***** FOOTER STYLES *****/
+
+footer {
+     text-align: center;
+     font-weight: 800px;
+}
+
+footer span {
+    color: #000099;
+    font-weight: bolder;
+}
